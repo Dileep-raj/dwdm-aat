@@ -1,0 +1,16 @@
+support,itemsets
+1.0,frozenset({'Groceries'})
+1.0,frozenset({'Furniture'})
+1.0,frozenset({'Electronics'})
+1.0,frozenset({'Apparel'})
+1.0,"frozenset({'Furniture', 'Groceries'})"
+1.0,"frozenset({'Electronics', 'Groceries'})"
+1.0,"frozenset({'Apparel', 'Groceries'})"
+1.0,"frozenset({'Electronics', 'Furniture'})"
+1.0,"frozenset({'Apparel', 'Furniture'})"
+1.0,"frozenset({'Apparel', 'Electronics'})"
+1.0,"frozenset({'Electronics', 'Furniture', 'Groceries'})"
+1.0,"frozenset({'Apparel', 'Furniture', 'Groceries'})"
+1.0,"frozenset({'Apparel', 'Electronics', 'Groceries'})"
+1.0,"frozenset({'Apparel', 'Furniture', 'Electronics'})"
+1.0,"frozenset({'Apparel', 'Furniture', 'Electronics', 'Groceries'})"

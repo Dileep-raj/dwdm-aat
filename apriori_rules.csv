@@ -1,0 +1,51 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'Apparel'}),frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Furniture'})",frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Electronics'})",frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Furniture'})",frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),"frozenset({'Electronics', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),"frozenset({'Apparel', 'Electronics'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),"frozenset({'Apparel', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Electronics'})",frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Groceries'})",frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Groceries'})",frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),"frozenset({'Electronics', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),"frozenset({'Apparel', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),"frozenset({'Apparel', 'Electronics'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Furniture'})",frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Groceries'})",frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Furniture', 'Groceries'})",frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),"frozenset({'Furniture', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),"frozenset({'Apparel', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),"frozenset({'Apparel', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Furniture'})",frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Groceries'})",frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Furniture', 'Groceries'})",frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),"frozenset({'Furniture', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),"frozenset({'Electronics', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),"frozenset({'Electronics', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Furniture', 'Electronics'})",frozenset({'Groceries'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Furniture', 'Groceries'})",frozenset({'Electronics'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Electronics', 'Groceries'})",frozenset({'Furniture'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Furniture', 'Groceries'})",frozenset({'Apparel'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Furniture'})","frozenset({'Electronics', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Electronics'})","frozenset({'Furniture', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Apparel', 'Groceries'})","frozenset({'Electronics', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Furniture'})","frozenset({'Apparel', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Furniture', 'Groceries'})","frozenset({'Apparel', 'Electronics'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+"frozenset({'Electronics', 'Groceries'})","frozenset({'Apparel', 'Furniture'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Apparel'}),"frozenset({'Electronics', 'Furniture', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Furniture'}),"frozenset({'Apparel', 'Electronics', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Electronics'}),"frozenset({'Apparel', 'Furniture', 'Groceries'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+frozenset({'Groceries'}),"frozenset({'Apparel', 'Furniture', 'Electronics'})",1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0

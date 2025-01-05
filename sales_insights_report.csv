@@ -1,0 +1,37 @@
+Insight Type,Details
+Top Products,"Product
+Electronics    326151.56
+Groceries      317914.16
+Apparel        317671.62
+Furniture      309676.85"
+Revenue by Region,"Region
+East     343617.48
+South    317191.61
+North    310816.34
+West     299788.76"
+Avg Sales by Region,"        Quantity Sold  Profit Margin
+Region                              
+East        51.302099      17.627661
+North       50.504098      17.759828
+South       50.724384      17.167712
+West        50.620893      17.430286"
+Monthly Sales Trend,"Month
+1     100525.64
+2      94713.28
+3     115033.37
+4      99172.16
+5     119864.08
+6     108361.07
+7      98826.92
+8     109683.99
+9     101590.55
+10    106140.17
+11    100935.05
+12    116567.91"
+Recommendations,"
+Recommendations:
+1. Focus marketing efforts on the top-performing products such as 'Apparel' and 'Electronics' to boost revenue.
+2. Invest in underperforming regions (e.g., South) to improve market share.
+3. Consider launching new promotions during months with lower sales (e.g., January) to increase revenue.
+4. Leverage customer demographics insights to target specific age groups for personalized marketing.
+"
